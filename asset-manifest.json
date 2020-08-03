@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cric-info/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cric-info/static/js/main.44d4c0f3.chunk.js",
+    "main.js.map": "/cric-info/static/js/main.44d4c0f3.chunk.js.map",
+    "runtime-main.js": "/cric-info/static/js/runtime-main.4bbddc9a.js",
+    "runtime-main.js.map": "/cric-info/static/js/runtime-main.4bbddc9a.js.map",
+    "static/js/2.46c76ec1.chunk.js": "/cric-info/static/js/2.46c76ec1.chunk.js",
+    "static/js/2.46c76ec1.chunk.js.map": "/cric-info/static/js/2.46c76ec1.chunk.js.map",
+    "index.html": "/cric-info/index.html",
+    "precache-manifest.fbe5881d67345e6f4f9ff93a93fd8ede.js": "/cric-info/precache-manifest.fbe5881d67345e6f4f9ff93a93fd8ede.js",
+    "service-worker.js": "/cric-info/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cric-info/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.46c76ec1.chunk.js.LICENSE.txt": "/cric-info/static/js/2.46c76ec1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bbddc9a.js",
+    "static/js/2.46c76ec1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.44d4c0f3.chunk.js"
+  ]
+}
